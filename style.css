@@ -64,8 +64,8 @@ header nav a{
     top: 50%;
     left: 50px;
     transform: translateY(-50%);
-    width: 500px;
-    max-width: 80%;
+    width: 1000px;
+    max-width: 90%;
 }
 #intro .content .name,
 #intro .content .job{
